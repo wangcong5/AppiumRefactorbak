@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40471" started-at="2016-11-13T06:27:41Z" finished-at="2016-11-13T06:28:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40471" started-at="2016-11-13T06:27:41Z" finished-at="2016-11-13T06:28:21Z">
+      <class name="com.moji.miweather.mc.LivePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.moji.miweather.mc.LivePage@5b275dab]" name="setUp" is-config="true" duration-ms="20060" started-at="2016-11-13T14:27:41Z" finished-at="2016-11-13T14:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="livePicture()[pri:0, instance:com.moji.miweather.mc.LivePage@5b275dab]" name="livePicture" duration-ms="19288" started-at="2016-11-13T14:28:01Z" finished-at="2016-11-13T14:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- livePicture -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.moji.miweather.mc.LivePage@5b275dab]" name="tearDown" is-config="true" duration-ms="1107" started-at="2016-11-13T14:28:20Z" finished-at="2016-11-13T14:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.moji.miweather.mc.LivePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
